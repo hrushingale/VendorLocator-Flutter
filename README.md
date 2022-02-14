@@ -9,7 +9,7 @@ IMPORTANT:
 On installing the application, the Login page is prefilled with a Guest Login ID and Password in order to fasten the process. In case anyone wants to register a new Login ID they can do so using the Sign Up function. 
 The User details are authenticated using Firebase Authentication and use login details (except the password) is stored on Firebase.
 I have used Google Maps API for Map operations. Other data like the Latitude and Longitude coordinates of the vendors and the vendor details are stored in Firestore Cloud Database.
-You can view the front-end and back-end activity through the provided screenshots.
+You can view the front-end and back-end activity through the provided screenshots. Please view them numerically for a better understanding of the working of the app.
 
 How To Operate The App:
 1. Login (Create account if not already present)
